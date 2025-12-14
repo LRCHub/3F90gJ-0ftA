@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Save Your Love",
+  "base_artist": "Bad Boys Blue",
+  "createdAt": "2025-12-14T21:32:17.170844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/01_Save_Your_Love_Great_White.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/02_Save_Your_Love_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "TNT",
+      "has_synced": false,
+      "path": "select/03_Save_Your_Love_TNT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Save Your Love for Me",
+      "artist": "Suckers",
+      "has_synced": false,
+      "path": "select/04_Save_Your_Love_for_Me_Suckers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Bonnie Tyler feat. Frankie Miller",
+      "has_synced": true,
+      "path": "select/05_Save_Your_Love_Bonnie_Tyler_feat._Frankie_Miller.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/06_Save_Your_Love_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/07_Save_Your_Love_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Susie Save Your Love",
+      "artist": "Allie X feat. Mitski",
+      "has_synced": true,
+      "path": "select/08_Susie_Save_Your_Love_Allie_X_feat._Mitski.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Susie Save Your Love",
+      "artist": "Allie X & Mitski",
+      "has_synced": true,
+      "path": "select/09_Susie_Save_Your_Love_Allie_X_&_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Save Your Love - Live",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/10_Save_Your_Love_-_Live_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Save Your Love - Single Version",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/11_Save_Your_Love_-_Single_Version_Great_White.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Save Your Love (Single Version)",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/12_Save_Your_Love_(Single_Version)_Great_White.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Renée and Renato",
+      "has_synced": true,
+      "path": "select/13_Save_Your_Love_Renée_and_Renato.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Renee And Renato",
+      "has_synced": true,
+      "path": "select/14_Save_Your_Love_Renee_And_Renato.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Shocking Blue",
+      "has_synced": true,
+      "path": "select/15_Save_Your_Love_Shocking_Blue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Save Your Love For Me",
+      "artist": "Rita Coolidge",
+      "has_synced": false,
+      "path": "select/16_Save_Your_Love_For_Me_Rita_Coolidge.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Save Your Love for Me",
+      "artist": "Nancy Wilson",
+      "has_synced": false,
+      "path": "select/17_Save_Your_Love_for_Me_Nancy_Wilson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Save Your Love for Me",
+      "artist": "Lou Rawls",
+      "has_synced": false,
+      "path": "select/18_Save_Your_Love_for_Me_Lou_Rawls.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Save Your Love",
+      "artist": "Jefferson Starship",
+      "has_synced": true,
+      "path": "select/19_Save_Your_Love_Jefferson_Starship.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Save Your Love",
+      "artist": "Bad Boys Blue",
+      "has_synced": false,
+      "path": "select/pl_01_Save_Your_Love_Bad_Boys_Blue.txt"
+    }
+  ]
+}
